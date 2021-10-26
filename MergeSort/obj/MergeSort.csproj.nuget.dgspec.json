@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\MergeSort\\MergeSort\\MergeSort.csproj": {}
+    "C:\\Users\\hp\\Desktop\\MergeSort\\MergeSort\\MergeSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\MergeSort\\MergeSort\\MergeSort.csproj": {
+    "C:\\Users\\hp\\Desktop\\MergeSort\\MergeSort\\MergeSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\MergeSort\\MergeSort\\MergeSort.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\MergeSort\\MergeSort\\MergeSort.csproj",
         "projectName": "MergeSort",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\MergeSort\\MergeSort\\MergeSort.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\MergeSort\\MergeSort\\MergeSort.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\MergeSort\\MergeSort\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\MergeSort\\MergeSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
