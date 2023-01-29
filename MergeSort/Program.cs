@@ -96,7 +96,7 @@ namespace MergeSort
                 {
                 Console.Write( sorted[i]+ " ");
                 }
-                Console.WriteLine("\n");
+                Console.WriteLine("\n"); 
         }
 
         static void Main(string[] arg)
